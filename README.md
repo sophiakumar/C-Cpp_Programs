@@ -1,5 +1,6 @@
 # C_programs
   
+![Screenshot](download.png)
 ## What is this Repo about?🤔
 
 This repository contains C programs which I made during my first year.😁🙌
