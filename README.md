@@ -5,10 +5,10 @@
 
 This repository contains C programs which I made during my first year.😁🙌
 
-## Whats behind the scenes?👀💡
+## What's behind the scenes?👀💡
 
-This repo works purely on C
+This repo works purely on C/CPP.
 
 ## What can I do?🤷‍♀️
 
-Well you are free to fork this repo, edit it as you wish, do suggest any changes I can make and more!
+Well you are free to fork this repo, edit it as you wish, do suggest any changes I can make and more!!
