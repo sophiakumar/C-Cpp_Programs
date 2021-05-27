@@ -109,7 +109,7 @@ for x in range(n1):
 ##T = "coding in python is easy"
 print(ans1)*/
 
-////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////
 /*
 Suppose we have two strings s0 and s1, they are representing a sentence, we have to find the number of unique words that are shared between these two sentences. We have to keep in mind that, the words are case-insensitive so "tom" and "ToM" are the same word.
 
